@@ -14,7 +14,7 @@ const ProyectoSchema = ({
 
     Foto: {
         type:String,
-        required:[true, 'El Iva Proyecto es requirido']
+        required:[true, 'La foto del Proyecto es requirido']
     },
 
 });
